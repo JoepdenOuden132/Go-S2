@@ -19,5 +19,5 @@ func main() {
 	case currentTime.Hour() >= 23 && currentTime.Hour() < 7:
 	}
 
-	fmt.Println(greeting, "Welkom bij Fonteyn Vakantieparken!")
+	fmt.Println(greeting, "Welkom bij Fonteyn Vakantieparken.")
 }
