@@ -1,2 +1,2 @@
 # Semester-2
-wowo!
+Alle code gemaakt voor S2
